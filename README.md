@@ -19,14 +19,14 @@ Clona este repositorio:
 
 ```bash
 git clone https://github.com/Javier-Gomez-Ovalle/Deber-1-python.git
-cd mazo-cartas-python
+cd Deber-1-python
 
 ```
 Ejecuta el script con Python 3:
 
 ```
-Copiar código
-python mazo.py
+Ejecutar código
+python tarea1.py
 
 ```
 
