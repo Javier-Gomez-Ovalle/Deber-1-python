@@ -18,7 +18,7 @@ El ejercicio demuestra cómo generar, mezclar y ordenar un mazo de cartas usando
 Clona este repositorio:
 
 ```bash
-git clone https://github.com/usuario/mazo-cartas-python.git
+git clone https://github.com/Javier-Gomez-Ovalle/Deber-1-python.git
 cd mazo-cartas-python
 
 ```
